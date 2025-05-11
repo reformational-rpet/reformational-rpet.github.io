@@ -3,13 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "Reformational Philosophy and Ethics of Technology (RPET)"
+  title: "RPET"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
-      - blog.qmd
+      - meetings.qmd
 
 format:
   html:
