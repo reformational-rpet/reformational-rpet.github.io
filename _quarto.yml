@@ -9,7 +9,7 @@ output:
     toc: true
     toc_depth: 2
     number_sections: true
-    theme: "default"
+    theme: "jekyll-theme-minimal"
     css: styles.css
 site:
   navbar:
