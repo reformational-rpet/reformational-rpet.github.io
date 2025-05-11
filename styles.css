@@ -32,6 +32,14 @@ body {
   border-radius: 5px;
 }
 
+/* Fix for button and link active/focus states */
+button:active, button:focus, .navbar a:active, .navbar a:focus {
+  background-color: #003366; /* Darker blue for active state */
+  color: white; /* Ensure text remains visible */
+  outline: none; /* Remove default focus outline */
+  border-radius: 5px; /* Keep consistent styling */
+}
+
 /* Footer styles */
 footer {
   text-align: center;
