@@ -22,4 +22,4 @@ site:
         href: agenda.qmd
   footer: "© 2023 Reformational Philosophy and Ethics of Technology"
 project:
-  output-dir: html_files
+  output-dir: docs
