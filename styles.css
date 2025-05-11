@@ -29,6 +29,7 @@ body {
 
 .navbar a:hover {
   background-color: #0066cc;
+  color: white;
   border-radius: 5px;
 }
 
@@ -38,6 +39,11 @@ button:active, button:focus, .navbar a:active, .navbar a:focus {
   color: white; /* Ensure text remains visible */
   outline: none; /* Remove default focus outline */
   border-radius: 5px; /* Keep consistent styling */
+}
+
+/* Update text color on hover and focus for buttons and links */
+button:hover, button:focus, .navbar a:hover, .navbar a:focus {
+  color: #f4f4f9; /* Light text color for better contrast */
 }
 
 /* Footer styles */
