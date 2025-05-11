@@ -1,0 +1,25 @@
+title: "Reformational Philosophy and Ethics of Technology (RPET)"
+description: "A website dedicated to the Reformational Philosophy and Ethics of Technology group."
+author: 
+  - name: "Your Name"
+    email: "your.email@example.com"
+output:
+  html:
+    self_contained: true
+    toc: true
+    toc_depth: 2
+    number_sections: true
+    theme: "default"
+    css: styles.css
+site:
+  navbar:
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "Members"
+        href: members.qmd
+      - text: "Agenda"
+        href: agenda.qmd
+  footer: "© 2023 Reformational Philosophy and Ethics of Technology"
+project:
+  output-dir: html_files
