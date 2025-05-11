@@ -27,10 +27,14 @@ body {
   transition: background-color 0.3s ease;
 }
 
-.navbar a:hover {
-  background-color: #0066cc;
-  color: white;
-  border-radius: 5px;
+.navbar a:hover, .navbar a:focus {
+  background-color: #0066cc; /* Slightly lighter blue */
+  color: #f4f4f9; /* Light text color */
+}
+
+.navbar a:active, .navbar a:focus {
+  background-color: #003366; /* Darker blue for active state */
+  color: #f4f4f9; /* Light text color for contrast */
 }
 
 /* Fix for button and link active/focus states */
