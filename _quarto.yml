@@ -17,7 +17,7 @@ output:
     toc: true
     toc_depth: 2
     number_sections: true
-    theme: "jekyll-theme-minimal"
+    theme: "cosmo"
     css: styles.css
 site:
   navbar:
