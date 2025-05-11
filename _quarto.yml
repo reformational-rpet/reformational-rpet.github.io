@@ -1,5 +1,13 @@
-title: "Reformational Philosophy and Ethics of Technology (RPET)"
-description: "A website dedicated to the Reformational Philosophy and Ethics of Technology group."
+project:
+  type: website
+  output-dir: docs
+
+website: 
+  page-navigation: true
+  title: "Reformational Philosophy and Ethics of Technology (RPET)"
+  description: "A website dedicated to the Reformational Philosophy and Ethics of Technology group."
+  site-url: "https://reformational-rpet.github.io/"
+  favicon: "files/Calvin_College.png"
 # author: 
 #   - name: "Your Name"
 #     email: "your.email@example.com"
@@ -21,5 +29,3 @@ site:
       - text: "Agenda"
         href: agenda.qmd
   footer: "© 2025 Reformational Philosophy and Ethics of Technology (RPET)"
-project:
-  output-dir: docs
