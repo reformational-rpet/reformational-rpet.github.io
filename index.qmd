@@ -1,9 +1,17 @@
-# Reformational Philosophy and Ethics of Technology (RPET)
+---
+title: "Reformational Philosophy and Ethics of Technology (RPET)"
+---
 
-Welcome to the official website of the Reformational Philosophy and Ethics of Technology (RPET) group. Our mission is to explore the intersection of philosophy, ethics, and technology, fostering discussions that promote a deeper understanding of how technology impacts society and individual lives.
+Welcome to the official website of the Reformational Philosophy and Ethics of Technology (RPET) group.
 
-## About Us
+Our mission is to explore and promote ethical practices in technology development and application, grounded in reformational philosophy. We aim to bridge the gap between technological advancements and ethical considerations, fostering a responsible and sustainable future.
 
-The RPET group is dedicated to examining the philosophical foundations of technology and its ethical implications. We aim to engage scholars, practitioners, and the public in meaningful conversations about the role of technology in shaping our world. Through research, discussions, and collaborative projects, we strive to contribute to a more thoughtful and responsible approach to technological development and implementation.
+### What We Do
+- Conduct research on the ethical implications of emerging technologies.
+- Organize workshops, seminars, and conferences to discuss key issues in technology ethics.
+- Collaborate with academic, industrial, and governmental organizations to promote ethical technology practices.
 
-Join us as we navigate the complexities of technology through a reformational lens, seeking to align technological advancements with ethical principles and societal well-being.
+### Join Us
+We welcome individuals and organizations interested in contributing to our mission. Whether you're a researcher, practitioner, or enthusiast, there's a place for you in RPET.
+
+Feel free to explore our website to learn more about our activities, members, and upcoming events.
