@@ -1,44 +1,44 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
+    "objectID": "blog.html",
+    "href": "blog.html",
     "title": "blog",
     "section": "",
     "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nMay 11, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 8, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "blog/posts/post-with-code/index.html",
-    "href": "blog/posts/post-with-code/index.html",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "RPET",
+    "section": "",
+    "text": "Welcome to the official website of the Reformational Philosophy and Ethics of Technology (RPET) group.\nOur mission is to explore and promote ethical practices in technology development and application, grounded in reformational philosophy. We aim to bridge the gap between technological advancements and ethical considerations, fostering a responsible and sustainable future.\n\n\n\nConduct research on the ethical implications of emerging technologies.\nOrganize workshops, seminars, and conferences to discuss key issues in technology ethics.\nCollaborate with academic, industrial, and governmental organizations to promote ethical technology practices.\n\n\n\n\nWe welcome individuals and organizations interested in contributing to our mission. Whether you’re a researcher, practitioner, or enthusiast, there’s a place for you in RPET.\nFeel free to explore our website to learn more about our activities, members, and upcoming events."
+  },
+  {
+    "objectID": "index.html#reformational-philosophy-and-ethics-of-technology-rpet",
+    "href": "index.html#reformational-philosophy-and-ethics-of-technology-rpet",
+    "title": "RPET",
+    "section": "",
+    "text": "Welcome to the official website of the Reformational Philosophy and Ethics of Technology (RPET) group.\nOur mission is to explore and promote ethical practices in technology development and application, grounded in reformational philosophy. We aim to bridge the gap between technological advancements and ethical considerations, fostering a responsible and sustainable future.\n\n\n\nConduct research on the ethical implications of emerging technologies.\nOrganize workshops, seminars, and conferences to discuss key issues in technology ethics.\nCollaborate with academic, industrial, and governmental organizations to promote ethical technology practices.\n\n\n\n\nWe welcome individuals and organizations interested in contributing to our mission. Whether you’re a researcher, practitioner, or enthusiast, there’s a place for you in RPET.\nFeel free to explore our website to learn more about our activities, members, and upcoming events."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
     "title": "Post With Code",
     "section": "",
     "text": "This is a post with executable code."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Reformational Philosophy and Ethics of Technology (RPET)",
-    "section": "",
-    "text": "Welcome to the official website of the Reformational Philosophy and Ethics of Technology (RPET) group.\nOur mission is to explore and promote ethical practices in technology development and application, grounded in reformational philosophy. We aim to bridge the gap between technological advancements and ethical considerations, fostering a responsible and sustainable future.\n\nWhat We Do\n\nConduct research on the ethical implications of emerging technologies.\nOrganize workshops, seminars, and conferences to discuss key issues in technology ethics.\nCollaborate with academic, industrial, and governmental organizations to promote ethical technology practices.\n\n\n\nJoin Us\nWe welcome individuals and organizations interested in contributing to our mission. Whether you’re a researcher, practitioner, or enthusiast, there’s a place for you in RPET.\nFeel free to explore our website to learn more about our activities, members, and upcoming events."
-  },
-  {
-    "objectID": "blog/posts/welcome/index.html",
-    "href": "blog/posts/welcome/index.html",
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
     "title": "Welcome To My Blog",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "blog/about.html",
-    "href": "blog/about.html",
+    "objectID": "about.html",
+    "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this blog"
+    "text": "About this site"
   }
 ]
