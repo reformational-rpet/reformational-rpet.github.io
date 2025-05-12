@@ -33,8 +33,20 @@ body {
 }
 
 .navbar a:active {
-  background-color: #002f5e; /* Even darker blue for active state */
+  background-color: #ffffff; /* Even darker blue for active state */
   color: #ffffff; /* Ensure text remains visible */
+}
+
+/* Fix for active and focus states in navbar links */
+.navbar a:active, .navbar a:focus {
+  background-color: #003f7f; /* Darker blue for active/focus state */
+  color: #ffffff; /* White text for contrast */
+}
+
+/* Increase specificity for active and focus states in navbar links */
+.navbar a:link:active, .navbar a:visited:active, .navbar a:link:focus, .navbar a:visited:focus {
+  background-color: #003f7f; /* Darker blue for active/focus state */
+  color: #ffffff; /* White text for contrast */
 }
 
 /* Footer styles */
